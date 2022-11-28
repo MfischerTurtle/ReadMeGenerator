@@ -13,7 +13,7 @@
 ## Installation
   inquirer
 ## Usage
-  by running node is git bash and follow the promts 
+  by running node is git bash and follow the prompts 
 ## License
   ![badge](https://img.shields.io/badge/license-W3C-important)
  
